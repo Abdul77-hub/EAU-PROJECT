@@ -1,0 +1,128 @@
+
+
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #333;
+  background-color: #f9f9f9;
+}
+
+header {
+  background-color: #1586dc;
+  color: white;
+  text-align: center;
+  padding: 30px 20px;
+}
+
+header img {
+  width: 80px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+nav {
+  background-color: #a631ee;
+
+  display: flex;
+  justify-content: center;
+  padding: 15px 0;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+section {
+  padding: 60px 20px;
+  max-width: 1100px;
+  margin: auto;
+}
+
+#home {
+  background: url('https://images.unsplash.com/photo-1588776814546-ec7b118d5d0e') no-repeat center center/cover;
+  color: rgb(223, 85, 85);
+  text-align: center;
+  padding: 100px 20px;
+}
+
+#home h2 {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+#home p {
+  font-size: 20px;
+}
+
+section h2 {
+  font-size: 32px;
+  color: #dc0808;
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #1f80e8;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 15px;
+  font-size: 14px;
+  margin: 0px;
+
+}
+
+iframe {
+  width: 100%;
+  height: 300px;
+  border: 0;
+  margin-top: 20px;
+  border-radius: 8px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+#courses us {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  margin-bottom: 30px;
+}
+
+section h2 {
+  font-size: 32px;
+  color: #dc0808;
+  margin-bottom: 20px;
+}
+
+#courses  ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#courses li {
+  padding: 8px 0;
+}
+
+footer {
+  background-color: #1f80e8;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+}
+
+
+
+
+
